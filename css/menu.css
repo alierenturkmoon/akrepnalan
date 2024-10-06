@@ -1,0 +1,19 @@
+body table tbody tr{
+    height: 20px !important;
+    display: inline-block;
+}
+#ilk{
+    display: inline;
+    height: 20px;
+}
+tr td span a p{
+    color: black;
+}
+#haber{
+    width: 20px;
+    height: 20px;
+}
+#mail{
+    width: 20px;
+    height: 20px !important;
+}

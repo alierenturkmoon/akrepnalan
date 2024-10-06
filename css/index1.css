@@ -1,0 +1,18 @@
+
+#ustkisim{
+    width: 60px;
+    height: 2000px;
+    background-color: gray;
+    text-decoration: none;
+}
+#sol{
+    width: 25%;
+    height: auto;
+    background-color: gray;
+    text-decoration: none;
+}
+#sag{
+    width: 75%;
+    height: auto;
+    background-color: darkslategray;
+}

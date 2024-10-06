@@ -1,0 +1,25 @@
+#hosgeldin{
+    font-size: 50px;
+}
+#nalan{
+    border-style: solid;
+    border-color: wheat;
+    border-radius: 20px;
+}
+#kus{
+    border-style: solid;
+    border-color: rgb(156, 230, 182);
+    border-radius: 30px;
+    border-width: 3px;
+}
+#girmek{
+    background-color: azure;
+    border-style: solid;
+    border-color: rgb(156, 230, 182);
+    border-radius: 10px;
+    display: inline-block;
+    width: 230px;
+    height: 30px;
+    text-align: center;
+    font-size: 6px;
+}
